@@ -1,5 +1,5 @@
 # docker-registry-https
-How to setup a secure public docker registry with authentication and letsencrypt
+How to setup a public docker registry with authentication and letsencrypt
 
 
 ## generate basic auth password
